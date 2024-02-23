@@ -1,0 +1,17 @@
+name: mandelbrot
+version: 0.1.0
+
+authors:
+  - Avram Eisner <avrame@gmail.com>
+
+targets:
+  mandelbrot:
+    main: src/mandelbrot.cr
+
+crystal: '>= 1.11.2'
+
+license: MIT
+
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
