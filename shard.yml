@@ -8,7 +8,7 @@ targets:
   mandelbrot:
     main: src/mandelbrot.cr
 
-crystal: '>= 1.11.2'
+crystal: ">= 1.11.2"
 
 license: MIT
 
